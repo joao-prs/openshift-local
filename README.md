@@ -35,4 +35,4 @@ oc rsh deploy/app  # se conecta no pod
 oc delete pod app-f9e5a8b1245-gzk3t # delete o pod
 ```
 
-
+> em breve, mais conteúdo
